@@ -7,6 +7,13 @@ A CLI Browser for BoltDB Files
 
 ![Image of Main Browser](http://bullercodeworks.com/boltbrowser/ss1.png)
 
+Reasons for fork
+----------
+* Change the theme
+* Change the command name to `bolt`
+
+*Note: This is simply my personal preference!*
+
 Installing
 ----------
 
