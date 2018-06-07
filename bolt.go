@@ -11,7 +11,7 @@ import (
 	"github.com/nsf/termbox-go"
 )
 
-var ProgramName = "boltbrowser"
+var ProgramName = "bolt"
 
 var databaseFiles []string
 var db *bolt.DB

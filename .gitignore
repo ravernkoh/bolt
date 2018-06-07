@@ -24,7 +24,7 @@ _testmain.go
 
 # Binaries
 *.exe
-boltbrowser
+bolt
 
 # Test Database
 test.db

@@ -16,12 +16,12 @@ type Style struct {
 
 func defaultStyle() Style {
 	var style Style
-	style.defaultBg = termbox.ColorBlack
-	style.defaultFg = termbox.ColorWhite
-	style.titleFg = termbox.ColorBlack
-	style.titleBg = termbox.ColorGreen
-	style.cursorFg = termbox.ColorBlack
-	style.cursorBg = termbox.ColorGreen
+	style.defaultBg = termbox.ColorDefault
+	style.defaultFg = termbox.ColorDefault
+	style.titleFg = termbox.ColorWhite
+	style.titleBg = termbox.ColorBlack
+	style.cursorFg = termbox.ColorWhite
+	style.cursorBg = termbox.ColorBlack
 
 	return style
 }
